@@ -1,6 +1,8 @@
 ---
 content_type: page
+learning_resource_types: []
 title: Additional Resources
+type: CourseSection
 uid: 4853e875-4de7-aade-3465-5cf11b481635
 ---
 

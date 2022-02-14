@@ -7,7 +7,11 @@ image_metadata:
   caption: ''
   credit: ''
   image-alt: ''
+learning_resource_types: []
+parent_title: What is D-Lab?
+parent_type: CourseSection
 resourcetype: Image
 title: corn_cob-charcoal2.jpg
+type: OCWImage
 uid: c93d86de-d7a8-827b-3b0e-e169a01da2c8
 ---

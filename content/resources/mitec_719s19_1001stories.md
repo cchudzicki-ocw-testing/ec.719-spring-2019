@@ -7,7 +7,12 @@ image_metadata:
   caption: ''
   credit: ''
   image-alt: ''
+learning_resource_types:
+- Projects
+parent_title: Projects
+parent_type: CourseSection
 resourcetype: Image
 title: MITEC_719S19_1001stories.png
+type: OCWImage
 uid: 74c8df24-eb13-d287-b429-e25a07e66ce4
 ---
