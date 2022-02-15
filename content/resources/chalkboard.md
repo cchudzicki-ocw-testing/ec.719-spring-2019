@@ -12,6 +12,5 @@ parent_title: Students as Teachers
 parent_type: CourseSection
 resourcetype: Image
 title: chalkboard.jpg
-type: OCWImage
 uid: 9a13ccf9-aec9-7c36-767a-8bf6c74c0e52
 ---

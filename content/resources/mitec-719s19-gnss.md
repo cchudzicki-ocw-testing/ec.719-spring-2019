@@ -8,6 +8,5 @@ parent_title: Water & Oceans
 parent_type: CourseSection
 resourcetype: Document
 title: 'EC.719 D-Lab: Water, Climate Change, and Health, Final Project GNSS'
-type: OCWFile
 uid: d239bccb-9e8f-4125-d1a7-d4d6e020ba29
 ---

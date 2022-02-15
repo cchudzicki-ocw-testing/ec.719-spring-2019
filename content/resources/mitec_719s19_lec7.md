@@ -10,6 +10,5 @@ parent_type: CourseSection
 resourcetype: Document
 title: 'EC.719 D-Lab: Water, Climate Change, and Health, Lecture 7: Climate Change,
   Human, and Planetary Health Through the Lens of Water'
-type: OCWFile
 uid: 10939816-b6f3-3c74-7464-6f98f74755ca
 ---

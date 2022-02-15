@@ -9,6 +9,5 @@ parent_title: Lecture Notes
 parent_type: CourseSection
 resourcetype: Document
 title: 'EC.719 Water, Climate Change, and Health, Lec 3: Climate 1'
-type: OCWFile
 uid: 8e30e236-fd88-fef1-cafb-f780d2d0f2ec
 ---

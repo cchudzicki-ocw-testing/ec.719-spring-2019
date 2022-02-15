@@ -5,7 +5,6 @@ parent_title: Additional Resources
 parent_type: CourseSection
 parent_uid: 4853e875-4de7-aade-3465-5cf11b481635
 title: Forestry & Agriculture
-type: CourseSection
 uid: 332b2b82-ac32-c07e-a220-660ae763f390
 ---
 

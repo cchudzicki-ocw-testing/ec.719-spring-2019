@@ -9,6 +9,5 @@ parent_title: Lecture Notes
 parent_type: CourseSection
 resourcetype: Document
 title: 'EC.719 D-Lab: Water, Climate Change, and Health, Lec 9: One Health'
-type: OCWFile
 uid: 6b77b056-c805-9d0b-5a5b-003c99be3d75
 ---

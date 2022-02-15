@@ -13,6 +13,5 @@ parent_title: Projects
 parent_type: CourseSection
 resourcetype: Image
 title: MITEC_719S19_demo.png
-type: OCWImage
 uid: b98372fd-3a8a-4619-648d-94c480e2fec8
 ---

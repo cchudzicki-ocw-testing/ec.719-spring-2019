@@ -9,6 +9,5 @@ parent_title: Lecture Notes
 parent_type: CourseSection
 resourcetype: Document
 title: 'EC.719 D-Lab: Water, Climate, and Health, Lec 4'
-type: OCWFile
 uid: da5b16a8-ff17-ff98-b1f8-5455e084aa44
 ---

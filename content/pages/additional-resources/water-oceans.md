@@ -5,7 +5,6 @@ parent_title: Additional Resources
 parent_type: CourseSection
 parent_uid: 4853e875-4de7-aade-3465-5cf11b481635
 title: Water & Oceans
-type: CourseSection
 uid: 52d1eed2-91cd-c1b5-e878-892dfd6b1e1d
 ---
 

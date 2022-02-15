@@ -6,7 +6,6 @@ parent_title: Instructor Insights
 parent_type: ThisCourseAtMITSection
 parent_uid: 64e728e0-0179-1042-61c4-67d8906d11bf
 title: History and Development of the Course
-type: CourseSection
 uid: 1ae5301e-7c2d-267a-4263-f163e997119a
 ---
 

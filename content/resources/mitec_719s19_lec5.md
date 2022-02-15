@@ -9,6 +9,5 @@ parent_title: Lecture Notes
 parent_type: CourseSection
 resourcetype: Document
 title: 'EC.719 D-Lab: Water, Climate Change, and Health, Lecture 5: Climate Modelling'
-type: OCWFile
 uid: fd0ec78d-5135-5bc0-19bc-18007098da9f
 ---

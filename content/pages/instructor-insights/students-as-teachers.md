@@ -6,7 +6,6 @@ parent_title: Instructor Insights
 parent_type: ThisCourseAtMITSection
 parent_uid: 64e728e0-0179-1042-61c4-67d8906d11bf
 title: Students as Teachers
-type: CourseSection
 uid: 40e1d48c-7e1d-3891-2dc5-a3fb01a39325
 ---
 

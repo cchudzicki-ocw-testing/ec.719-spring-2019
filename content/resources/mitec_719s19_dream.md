@@ -8,6 +8,5 @@ parent_title: New England
 parent_type: CourseSection
 resourcetype: Document
 title: 'EC.719 D-Lab: Water, Climate Change, and Health Dream Project Summary'
-type: OCWFile
 uid: 4b70cfd2-4cab-b5ee-fac2-df46137afb11
 ---

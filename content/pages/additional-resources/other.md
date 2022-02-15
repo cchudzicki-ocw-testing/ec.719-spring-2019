@@ -5,7 +5,6 @@ parent_title: Additional Resources
 parent_type: CourseSection
 parent_uid: 4853e875-4de7-aade-3465-5cf11b481635
 title: Other
-type: CourseSection
 uid: d9e9c320-906f-49c1-b2fb-1eb03c76ccdc
 ---
 
