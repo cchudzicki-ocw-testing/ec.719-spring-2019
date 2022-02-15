@@ -8,6 +8,7 @@ image_metadata:
   credit: ''
   image-alt: ''
 learning_resource_types: []
+ocw_type: OCWImage
 parent_title: What is D-Lab?
 parent_type: CourseSection
 resourcetype: Image
