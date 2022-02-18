@@ -12,7 +12,7 @@ uid: da4b3356-07cc-777e-b267-a58ed3a4a5f8
 
 _In this section, Susan Murcott explains some of the unique features of D-Lab and the courses it offers_.
 
-![A group of people standing around charcoal pellets made from corn cobs.]({{< resource_file c93d86de-d7a8-827b-3b0e-e169a01da2c8 >}})
+{{< resource c93d86de-d7a8-827b-3b0e-e169a01da2c8 >}}
 
 D-Lab participants developed corn cob charcoal with collaborators in Zambia.
 

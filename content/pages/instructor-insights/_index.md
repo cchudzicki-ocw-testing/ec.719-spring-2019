@@ -14,9 +14,9 @@ Instructor Insights
 
 Below, Susan Murcott describes various aspects of how she and Juliet Simpson teach _EC.719 D-Lab: Water, Climate Change, and Health_.
 
-*   [What is D-Lab?]({{< baseurl >}}/pages/instructor-insights/what-is-d-lab)
-*   [History and Development of the Course]({{< baseurl >}}/pages/instructor-insights/history-and-development-of-the-course)
-*   [Students as Teachers]({{< baseurl >}}/pages/instructor-insights/students-as-teachers)
+*   {{< resource_link da4b3356-07cc-777e-b267-a58ed3a4a5f8 "What is D-Lab?" >}}
+*   {{< resource_link 1ae5301e-7c2d-267a-4263-f163e997119a "History and Development of the Course" >}}
+*   {{< resource_link 40e1d48c-7e1d-3891-2dc5-a3fb01a39325 "Students as Teachers" >}}
 
 Assessment
 ----------
@@ -47,7 +47,7 @@ Every spring semester
 Student Information
 -------------------
 
-![Less than 10 students took this course when it was taught in Spring 2019.]({{< resource_file 2304bcb4-86db-95f5-135e-42ba29f27560 >}})
+{{< resource 2304bcb4-86db-95f5-135e-42ba29f27560 >}}
 
 ### Breakdown by Year
 

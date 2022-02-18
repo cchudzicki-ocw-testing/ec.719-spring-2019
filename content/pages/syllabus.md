@@ -133,4 +133,4 @@ The D-Lab Showcase will feature all the spring term D-Lab class projects. Mark y
 
 ### Extra Credit
 
-Students will receive a feedback on their second and third deliverables (see [Calendar]({{< baseurl >}}/pages/calendar)). After receiving their third deliverable feedback, students will have an opportunity for students to further develop their work for extra credit and hand it in one final time. There is no final exam in this course.
+Students will receive a feedback on their second and third deliverables (see {{< resource_link d936bcba-5b2b-6c50-7ea9-9b8e9207a3bc "Calendar" >}}). After receiving their third deliverable feedback, students will have an opportunity for students to further develop their work for extra credit and hand it in one final time. There is no final exam in this course.
