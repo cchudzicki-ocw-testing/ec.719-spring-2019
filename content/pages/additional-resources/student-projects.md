@@ -18,9 +18,9 @@ Documentary originally created as the Term Project in MIT "D-Lab Water and Clima
 
 ["Local Water" short version (14:35 min) of "In an Oyster Nutshell."](https://youtu.be/4evJROh4wUk) 
 
-{{< resource_link d239bccb-9e8f-4125-d1a7-d4d6e020ba29 "A Very-Low-Cost GNSS Precipitable Water Vapour Sensor (PDF)" >}}. The goal of the project is to develop a very-low-cost system for the measurement of precipitable water vapour from GNSS data utilizing inexpensive, off-the-shelf, commercially available components. Term project final report. 
+{{% resource_link d239bccb-9e8f-4125-d1a7-d4d6e020ba29 "A Very-Low-Cost GNSS Precipitable Water Vapour Sensor (PDF)" %}}. The goal of the project is to develop a very-low-cost system for the measurement of precipitable water vapour from GNSS data utilizing inexpensive, off-the-shelf, commercially available components. Term project final report. 
 
 New England
 -----------
 
-Example Dream Project Summary: {{< resource_link 4b70cfd2-4cab-b5ee-fac2-df46137afb11 "Protecting Rapid Transit Infrastructure from Extreme Precipitation Events (PDF)" >}}
+Example Dream Project Summary: {{% resource_link 4b70cfd2-4cab-b5ee-fac2-df46137afb11 "Protecting Rapid Transit Infrastructure from Extreme Precipitation Events (PDF)" %}}

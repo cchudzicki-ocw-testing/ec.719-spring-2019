@@ -9,7 +9,7 @@ uid: 9cc6a4e6-78b7-bd33-de2e-724464018b95
 
 \[M\] Maslin, Mark. _Climate Change: A Very Short Introduction._ 3rd Edition. Oxford University Press, Oxford, UK, 2014. ISBN: 9780198719045.
 
-Other {{< resource_link f14ac857-fb37-82ec-0d52-77f42795ea1d "recommended course texts" >}} are available.
+Other {{% resource_link f14ac857-fb37-82ec-0d52-77f42795ea1d "recommended course texts" %}} are available.
 
 {{< tableopen >}}
 {{< theadopen >}}
@@ -73,7 +73,7 @@ Water, Climate Change, and Health Intro
 
 Kolbert, Elizabeth. "[Can Carbon-Dioxide Removal Save the World?](https://www.newyorker.com/magazine/2017/11/20/can-carbon-dioxide-removal-save-the-world)" _The New Yorker_, November 13, 2017.
 
-Review {{< resource_link 239732a6-7608-30c3-05dc-abfb991a111b "past projects" >}}.
+Review {{% resource_link 239732a6-7608-30c3-05dc-abfb991a111b "past projects" %}}.
 
 _Recommended:_ 
 

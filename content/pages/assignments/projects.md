@@ -14,7 +14,7 @@ Students were required to complete a term project on water, climate change, and 
 
 At the end of the course, the D-Lab Showcase featured all the spring term D-Lab class projects. This was an opportunity to present the “final” version of the term projects. Course instructors and peers provided feedback on student work.
 
-This page contains a sampling of some of the student projects completed during the Spring 2019 version of this course. {{< resource_link 239732a6-7608-30c3-05dc-abfb991a111b "Past student projects" >}} are also available. 
+This page contains a sampling of some of the student projects completed during the Spring 2019 version of this course. {{% resource_link 239732a6-7608-30c3-05dc-abfb991a111b "Past student projects" %}} are also available. 
 
 1001 Stories
 ------------
