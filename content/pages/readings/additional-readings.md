@@ -1,5 +1,6 @@
 ---
 content_type: page
+description: 'Additional optional readings for D-Lab: Water, Climate Change, and Health.'
 draft: false
 parent_uid: 9cc6a4e6-78b7-bd33-de2e-724464018b95
 title: Additional Readings
