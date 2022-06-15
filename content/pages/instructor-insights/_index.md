@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: 'In this section Susan Murcott describes various aspects of how she and
+  Juliet Simpson teach EC.719 D-Lab: Water, Climate Change, and Health. '
 draft: false
 layout: instructor_insights
 learning_resource_types: []

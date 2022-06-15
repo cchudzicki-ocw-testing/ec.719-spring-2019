@@ -1,5 +1,8 @@
 ---
 content_type: page
+description: 'In this section, Susan Murcott describes the history of EC.719 D-Lab:
+  Water, Climate Change, and Health, how it was first conceived, and how it has developed
+  over the years.'
 draft: false
 layout: instructor_insights
 learning_resource_types: []
