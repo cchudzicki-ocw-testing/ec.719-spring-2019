@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: 'Additional resources from previous years of D-Lab: Water, Climate Change,
+  and Health.'
 learning_resource_types: []
 ocw_type: CourseSection
 title: Additional Resources

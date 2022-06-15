@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: 'Examples of student final projects for D-Lab: Water, Climate Change,
+  and Health. '
 learning_resource_types:
 - Assignments
 ocw_type: CourseSection

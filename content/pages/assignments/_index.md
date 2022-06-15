@@ -1,5 +1,6 @@
 ---
 content_type: page
+description: 'Descriptions of assignments for D-Lab: Water, Climate Change, and Health.'
 learning_resource_types:
 - Assignments
 ocw_type: CourseSection

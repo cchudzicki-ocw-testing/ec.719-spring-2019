@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: 'Lecture slides for some of some of the classes in D-Lab: Water, Climate
+  Change, and Health. '
 learning_resource_types:
 - Lecture Notes
 ocw_type: CourseSection

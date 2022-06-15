@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: 'The syllabus for D-Lab: Water, Climate Change, and Health contains the
+  course description, course highlights, and learning objectives.'
 learning_resource_types: []
 ocw_type: CourseSection
 title: Syllabus

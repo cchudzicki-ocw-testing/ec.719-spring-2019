@@ -1,5 +1,6 @@
 ---
 content_type: page
+description: 'Required reading list for D-Lab: Water, Climate Change, and Health. '
 learning_resource_types:
 - Readings
 ocw_type: CourseSection

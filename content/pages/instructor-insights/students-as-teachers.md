@@ -1,5 +1,9 @@
 ---
 content_type: page
+description: 'In this section, Susan Murcott reflects on how EC.719 D-Lab: Water,
+  Climate Change, and Health is structured to give students a role in teaching, and
+  what practical strategies have proved most successful in implementing that portion
+  of the course.     '
 layout: instructor_insights
 learning_resource_types: []
 ocw_type: CourseSection

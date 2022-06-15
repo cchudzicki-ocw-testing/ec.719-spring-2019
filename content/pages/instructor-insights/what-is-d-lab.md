@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: In this section, Susan Murcott explains some of the unique features of
+  D-Lab and the courses it offers.
 layout: instructor_insights
 learning_resource_types: []
 ocw_type: CourseSection
